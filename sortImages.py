@@ -1,3 +1,5 @@
+# 해당 파일은 사용하지 않았음
+
 import os
 import shutil
 import pandas as pd
